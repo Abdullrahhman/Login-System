@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-image: url("./assets/1920x1080-wallpapers-16031785.jpg");
+}
+.title {
+  position: relative;
+  bottom: 12px;
+  font-size: x-small;
+}
+
+.form-text {
+  position: relative;
+  font-size: x-small;
+  right: 56px;
+  bottom: 5px;
+  color: aliceblue;
+}
+
+.center-div {
+  padding: 10%;
+}
+
+.btn.btn-success {
+  text-align: center;
+}
+
+form {
+  padding: 0 6px;
+}
